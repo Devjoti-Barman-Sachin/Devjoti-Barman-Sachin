@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devjoti Barman Sachin</h1>
 <h3 align="center">A passionate IoT and Embedded Syetem developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://linkedin.com/in/devjoti-barman-sachin-267044182/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-follow-us-on-linkedin-3289863-2758561.png?f=webp" alt="devbarmansachin" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/devjoti-barman-sachin-267044182/" target="blank"><img src="https://www.pngitem.com/pimgs/m/556-5567186_follow-us-on-linkedin-linkedin-hd-png-download.png" alt="devbarmansachin" height="40" width="80" /></a> </p>
 
 - 🔭 I’m currently working on **InsureCow**
 
