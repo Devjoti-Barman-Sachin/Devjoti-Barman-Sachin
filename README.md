@@ -2,11 +2,11 @@
 <h3 align="center">A passionate IoT and Embedded Syetem developer from Bangladesh</h3>
 
 
-- 🔭 I’m currently working on **InsureCow**
+- 👨🏻‍💻 I’m currently working on **InsureCow**
 
-- 🌱 I’m currently learning **AWS**
+- 🧮 I’m currently learning **AWS**
 
-- 📫 You can Email me at **devjotibarmansachin@gmail.com**
+- 📧 You can Email me at **devjotibarmansachin@gmail.com**
 
 
 <h3 align="left">Important Links:</h3>
