@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devjoti Barman Sachin</h1>
 <h3 align="center">A passionate IoT and Embedded Syetem developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://linkedin.com/in/devjoti-barman-sachin-267044182/" target="blank"><img src="https://img.shields.io/twitter/follow/devbarmansachin?logo=twitter&style=for-the-badge" alt="devbarmansachin" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/devjoti-barman-sachin-267044182/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-follow-us-on-linkedin-3289863-2758561.png?f=webp" alt="devbarmansachin" /></a> </p>
 
 - 🔭 I’m currently working on **InsureCow**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devbarmansachin" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-follow-us-on-linkedin-3289863-2758561.png?f=webp" alt="devbarmansachin" height="30" width="40" /></a>
+<a href="https://twitter.com/devbarmansachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devbarmansachin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devjoti-barman-sachin-267044182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devjoti-barman-sachin-267044182/" height="30" width="40" /></a>
 <a href="https://fb.com/sachin.barman.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin.barman.18" height="30" width="40" /></a>
 <a href="https://www.beecrowd.com.br/judge/en/profile/343669" target="blank"><img align="center" src="https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoVert-300x241.png" alt="343669" height="30" width="40" /></a>
