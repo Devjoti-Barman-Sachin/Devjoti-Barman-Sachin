@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📫 How to reach me **devjotibarmansachin@gmail.com**
+- 📫 Email me at **devjotibarmansachin@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Important Links:</h3>
 <p align="left">
 <a href="https://twitter.com/devbarmansachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devbarmansachin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devjoti-barman-sachin-267044182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devjoti-barman-sachin-267044182/" height="30" width="40" /></a>
