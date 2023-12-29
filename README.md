@@ -6,7 +6,7 @@
 
 - 🧮 I’m currently learning **AWS**
 
-- 📧 You can Email me at **devjotibarmansachin@gmail.com**
+- 📧 You can email me at **devjotibarmansachin@gmail.com**
 
 
 <h3 align="left">Important Links:</h3>
@@ -16,7 +16,7 @@
 <a href="https://fb.com/sachin.barman.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin.barman.18" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Online Activities:</h3>
+<h3 align="left">Online Coding Activities:</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=devjoti-barman-sachin&show_icons=true&locale=en" alt="devjoti-barman-sachin" /></p>
 <p align="left">
 <a href="https://www.beecrowd.com.br/judge/en/profile/343669" target="blank"><img align="center" src="https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoVert-300x241.png" alt="343669" height="50" width="60" /></a>
