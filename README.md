@@ -2,9 +2,9 @@
 <h3 align="center">A passionate IoT and Embedded Syetem developer from Bangladesh</h3>
 
 
-- 👨🏻‍💻 I’m currently working at **InsureCow**
+- 👨🏻‍💻 I’m currently working at **Neways International Company Limited**
 
-- 🧮 I’m currently learning **AWS**
+- 🧮 I’m currently learning **STM32**
 
 - 📧 You can email me at **devjotibarmansachin@gmail.com**
 
